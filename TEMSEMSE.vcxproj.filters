@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asiodrivers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asiolist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="celt_lpc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="denoise.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="iasiothiscallresolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kiss_fft.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pitch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rnn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rnn_data.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rnn_reader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RtAudio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rtaudio_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_kiss_fft_guts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asiodrivers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asiodrvr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asiolist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asiosys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="celt_lpc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="denoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dsound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="functiondiscoverykeys_devpkey.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ginclude.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iasiodrv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iasiothiscallresolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kiss_fft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="opus_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pitch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rnn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rnn_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rnnoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RtAudio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rtaudio_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="soundcard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tansig_table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
